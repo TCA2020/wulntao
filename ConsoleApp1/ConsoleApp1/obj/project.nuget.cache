@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Djuf5G0i9f/F8P0xYZ5rCHN7qq3QP8I34WEyV8ncR0q/YLJqOuZCmG9Oj3HW7VrAzYohhQWYtnrmaYXoRKRZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Wu long tao\\source\\repos\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wu long tao\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
